@@ -1,0 +1,18 @@
+{
+    "name": "ecomdeveloper/datatest",
+    "description": "verygood",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ecomsolver",
+            "email": "ecomsolver@gmail.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"ecomdeveloper\\": "Datatest/"
+		}
+	},
+    "require": {}
+}
